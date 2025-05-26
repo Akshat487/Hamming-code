@@ -3,7 +3,7 @@
 
 <b>Discipline | <b>error detection and correction in digital communication
 :--|:--|
-<b> Lab | <b> digital communication
+<b> Lab | <b> Digital communication
 <b> Experiment|     <b> Study of single bit error detection and correction using hamming code.
 
 ### About the Experiment 
